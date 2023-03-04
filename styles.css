@@ -93,6 +93,7 @@ body{
 .text{
     position: relative;
     top: -2px;
+    padding-left: 5px;
 }
 
 #avatar{
