@@ -32,8 +32,9 @@ body{
 
 .card{
     background-color: var(--Very-dark-blue-card);
-    width: 20rem;
-    height: 33.6rem;
+    max-width: 20rem;
+    /*min-height: 100vh;*/
+    /*height: 33.6rem;*/
     border-radius: 3%;
 }
 
@@ -104,11 +105,12 @@ body{
     position: relative;
     top: 20px;
     margin-left: 35px;
+    margin-bottom: 2rem;
 }
 
 .avatar #creator{
     position: relative;
-    top: -8px;
+    top: -38px;
     color: var(--Soft-blue);
     margin-left: 5.3rem;
 }
