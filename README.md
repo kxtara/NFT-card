@@ -67,7 +67,7 @@ Moving forward, I want to work more with transitions.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kxtara)
-- Twitter - [@yourusername](https://www.twitter.com/kiarahoheb)
+- Frontend Mentor - [@kxtara](https://www.frontendmentor.io/profile/kxtara)
+- Twitter - [@kiarahoheb](https://www.twitter.com/kiarahoheb)
 
 
